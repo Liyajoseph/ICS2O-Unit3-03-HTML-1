@@ -43,7 +43,7 @@
   background-color: #421820;
 }
 
-.row:after {
+.row::after {
   content: "";
   display: table;
   clear: both;
